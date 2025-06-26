@@ -1,97 +1,101 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Mathematical Sciences
+      institution: University of Southampton, Southampton, UK
+      year: Sep 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Research Focus - Gauge/Gravity Duality
+        - Supervisor - Dr Fridrik Gautason
 
-- title: Experience
+    - title: MASt Mathematics (Theoretical Physics)
+      institution: University of Cambridge, Cambridge, UK
+      year: Oct 2024 - Jun 2025
+      description:
+        - Essay Title - Positivity of Bondi Energy in General Relativity.
+        - title: Relevant Modules 
+          contents:
+            - Quantum Field Theory
+            - General Relativity
+            - Advanced Quantum Field Theory
+            - String Theory
+            - Black Holes
+        - title: Audited Modules
+          contents:
+            - Gauge/Gravity Duality
+            - Solitons, Instantons and Geometry
+            - Canonical Gravity
+            - Cosmology
+            - Symmetries, Particles and Fields
+            - Statistical Field Theory
+
+
+    - title: MSci Theoretical Physics
+      institution: University College London, London, UK
+      year: Sep 2020 - Jun 2024
+      description:
+        - Final Year Project - Uncertainties on Parton Distributions.
+        - title: Relevant Modules
+          contents:
+            - Quantum Field Theory 
+            - Mathematics for General Relativity
+            - Practical Machine Learning for Physicists
+            - Techniques of High-Performance Computing
+            - Cosmology.
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Cambridge Mathematics Placement
+      institution: Sainsbury Laboratory Cambridge University (SLCU)
+      year: Jul - Aug 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Completed an 8-week project on modelling plant growth by implementing concepts from Riemannian geometry using C++.
+
+    - title: Astrophysics Summer Research Programme
+      institution: Department of Physics, University of Oxford
+      year: Jul - Sep 2023
       description:
-        - Description 1.
-        - Description 2.
+        - "Undertook an 8-week project on modelling disk winds from the accretion disk of X-ray binaries using the Monte Carlo radiative transfer code: PYTHON."
+        - Devised a method for approximating the movement of points in the output parameter space using a Monte Carlo string energy minimisation method.
+        - Successfully reproduced P-Cygni blueshifted absorption lines in the optical spectrum for an X-ray binary as seen in observations for the first time.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: MAPS Research Internship
+      institution: High Energy Physics (HEP), University College London
+      year: May - Jul 2023
       description:
+        - Undertook a 6-week project on analysing data from the LHC using the CONTUR package in Python to constrain the parameter space of dark meson masses in a composite dark matter model.
+        - Created code to verify simulated cross-sections from RIVET with detector data.
+        - "Results of the project are available at: \nhttps://hepcedar.gitlab.io/contur-webpage/results/HeavyDarkMesons/index.html"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Biophysics Research Internship
+      institution: Institute for the Physics of Living Systems (IPLS), University College London
+      year: May - Jul 2022
+      description:
+        - Completed a 10-week project on using coupled, non-linear, differential equations to simulate the evolution of a gene regulatory network in Python to explore convergence in evolution.
+        - Delivered two presentations to other IPLS students and their supervisors on the aims and results of the project. Additionally, wrote a report on the outcomes of the investigation.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Jennings Prize - Achieved a First Class or Distinction in University examinations as a Wolfson College Student.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+    - year: 2024
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - "Dean's list - Top 5% of the UCL Faculty of Mathematical and Physical Sciences."
+        - Winton Prize Recipient - Best overall academic achievement by a UCL 4th year MSci Theoretical Physics student.
+ 
 
-- title: Other Interests
+- title: Skills and Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Adept in Python, including NumPy, pandas, Astropy, Numba, SciPy and Keras packages."
+    - "Ability to model physical systems in Mathematica and C++, utilising Eigen, gnuplot and SDL libraries."
+    - "Proficient in producing reports and documents using LaTeX/Overleaf."
+    - "Experienced in using the Unix shell in Linux to run simulations written in Python and C on a cluster developed in the research experiences listed above."
+    - "Constructs programs in free time to develop coding aptitude and learn how to apply new concepts."
+
