@@ -6,7 +6,7 @@
       year: Sep 2025 - Present
       description:
         - Research Focus - Gauge/Gravity Duality
-        - Supervisor - Dr Fridrik Gautason
+        - Supervisor - <a href="https://inspirehep.net/authors/1209351?ui-citation-summary=true">Dr Fridrik Gautason</a>
 
     - title: MASt Mathematics (Theoretical Physics)
       institution: University of Cambridge, Cambridge, UK
@@ -35,13 +35,14 @@
       year: Sep 2020 - Jun 2024
       description:
         - Final Year Project - Uncertainties on Parton Distributions.
+        - Supervisor - <a href="https://profiles.ucl.ac.uk/4537">Professor Robert Thorne</a>
         - title: Relevant Modules
           contents:
             - Quantum Field Theory 
             - Mathematics for General Relativity
             - Practical Machine Learning for Physicists
             - Techniques of High-Performance Computing
-            - Cosmology.
+            - Cosmology
 
 - title: Research Experience
   type: time_table
@@ -50,12 +51,14 @@
       institution: Sainsbury Laboratory Cambridge University (SLCU)
       year: Jul - Aug 2025
       description:
+        - Supervisor - <a href="https://scholar.google.co.il/citations?hl=en&user=YfAsz6oAAAAJ&view_op=list_works&sortby=pubdate">Dr Amir Porat</a>
         - Completed an 8-week project on modelling plant growth by implementing concepts from Riemannian geometry using C++.
 
     - title: Astrophysics Summer Research Programme
       institution: Department of Physics, University of Oxford
       year: Jul - Sep 2023
       description:
+        - Supervisor - <a href="https://www.physics.ox.ac.uk/our-people/matthewsj">Dr James Matthews</a>
         - "Undertook an 8-week project on modelling disk winds from the accretion disk of X-ray binaries using the Monte Carlo radiative transfer code: PYTHON."
         - Devised a method for approximating the movement of points in the output parameter space using a Monte Carlo string energy minimisation method.
         - Successfully reproduced P-Cygni blueshifted absorption lines in the optical spectrum for an X-ray binary as seen in observations for the first time.
@@ -64,14 +67,16 @@
       institution: High Energy Physics (HEP), University College London
       year: May - Jul 2023
       description:
+        - Supervisor - <a href="https://www.hep.ucl.ac.uk/~jmb/">Professor Jonathan Butterworth</a>
         - Undertook a 6-week project on analysing data from the LHC using the CONTUR package in Python to constrain the parameter space of dark meson masses in a composite dark matter model.
         - Created code to verify simulated cross-sections from RIVET with detector data.
-        - "Results of the project are available at: \nhttps://hepcedar.gitlab.io/contur-webpage/results/HeavyDarkMesons/index.html"
+        - Results of the project are available <a href="https://hepcedar.gitlab.io/contur-webpage/results/HeavyDarkMesons/index.html">here</a>.
 
     - title: Biophysics Research Internship
       institution: Institute for the Physics of Living Systems (IPLS), University College London
       year: May - Jul 2022
       description:
+        - Supervisor - <a href="https://www.crick.ac.uk/research/find-a-researcher/zena-hadjivasiliou">Dr Zena Hadjivasiliou</a>
         - Completed a 10-week project on using coupled, non-linear, differential equations to simulate the evolution of a gene regulatory network in Python to explore convergence in evolution.
         - Delivered two presentations to other IPLS students and their supervisors on the aims and results of the project. Additionally, wrote a report on the outcomes of the investigation.
 

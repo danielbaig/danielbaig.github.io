@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Repositories containing code produced during internships.
+description: Some projects I have worked on include a significant amount of coding. Here is a collection of that code, which may be simulation and/or data analysis based.
 nav: true
 nav_order: 4
 ---
