@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Building 54</p>
-    <p>58 Salisbury Road</p>
-    <p>Southampton SO17 1BJ</p>
+  more_info: "<p>Building 54<br>58 Salisbury Road<br>Southampton SO17 1BJ</p>"
 
 
 

@@ -21,7 +21,7 @@ icon: icon.png # the emoji used as the favicon (alternatively, provide image nam
 url: https://danielbaig.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path: _pages/legal.md # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /legal/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -79,8 +79,8 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
-bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification: Da-1QStKvU7iR3V_bvF-tQ7DwmCKNuIIg2RkxqUhe1s # your google-site-verification ID (Google Search Console)
+bing_site_verification: 5B32593035FCEEF017B4331E18B51304 # out your bing-site-verification ID (Bing Webmaster)
 
 
 
