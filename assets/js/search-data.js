@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Repositories containing code produced during internships.",
+          description: "Some projects I have worked on include a significant amount of coding. Here is a collection of that code, which may be simulation and/or data analysis based.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Problem classes I have taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
