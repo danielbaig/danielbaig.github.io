@@ -1417,3 +1417,12 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// See https://github.com/AdrianKulmburg/adrianKulmburg.github.io/commit/964a2109b412b821a65d86ab23bab334f47edbaf#diff-9a9434af40c4503e3ca4fbd0e87e85a1518b3d46f8e4b1ff44c6b43741aa5ca6
+.box {
+    background-color: var(--global-card-bg-color);
+    width: auto;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
