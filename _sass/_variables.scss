@@ -11,8 +11,10 @@ $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
+$blue-color-light: #278EA5 !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+$teal-color: #17deb8 !default;
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
@@ -53,4 +55,8 @@ $back-to-top-width: $back-to-top-diameter;
 
 
 // Custom colours
-$custom-blue: #0000ff !default;
+$customLight-blue-dark: #3e737a !default;
+$customLight-mint: #68f0f8 !default;
+
+$customDark-blue-dark: #3e737a !default;
+$customDark-black: #000000 !default;
