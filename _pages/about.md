@@ -28,6 +28,6 @@ latest_posts:
 
 I am a PhD student at the University of Southampton within the [String Theory and Holography Group](https://www.southampton.ac.uk/research/groups/string-theory-holography) in the [Southampton Theory Astrophysics and Gravity (STAG)](https://www.southampton.ac.uk/research/institutes-centres/southampton-theory-astrophysics-gravity) research centre. I completed my undergraduate studies at University College London in theoretical physics and then went on to do Part III of the Mathematical Tripos at the University of Cambridge. 
 
-I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics underlying various physical phenomena. I have done research on a variety of interesting projects from biophysics in The Francis Crick Institute to astrophysics at the University of Oxford. Nowadays I am mainly interested in gauge/gravity duality and black holes; however, I am _always_ open to exploring other areas of  physics.
+I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics underlying various physical phenomena. I have done research on a variety of interesting projects from biophysics in The Francis Crick Institute to astrophysics at the University of Oxford. Nowadays I am mainly interested in gauge/gravity duality and black holes; however, I am always open to exploring other areas of  physics.
 
 
