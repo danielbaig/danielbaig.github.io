@@ -276,6 +276,23 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Specific colours for social icons.
+// Email
+.navbar-brand.social a.social-email i::before {
+    color: #d44638 !important;
+}
+
+// Gitlab
+.navbar-brand.social a.social-gitlab i::before {
+    color: #fb6825 !important;
+}
+
+// Orcid
+.navbar-brand.social a.social-orcid i::before {
+    color: #a5cd36 !important;
+}
+
+
 .navbar.navbar-light {
   a {
     &:hover {
@@ -336,7 +353,7 @@ ul.task-list input[type="checkbox"] {
 
       &:hover {
         i::before {
-          color: var(--global-hover-color);
+          color: var(--global-hover-color) !important;
         }
       }
     }
