@@ -86,7 +86,7 @@ html[data-theme="dark"] {
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$customDark-blue-dark};
-  --global-hover-color: #{$white-color};
+  --global-hover-color: #{$customLight-mint};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
@@ -117,7 +117,7 @@ html[data-theme="dark"] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  --global-header-text-color: #{$customLight-mint};
+  --global-header-text-color: #{$white-color};
   --global-header-active-color: #{$customDark-black};
 
   .only-light {

@@ -336,7 +336,7 @@ ul.task-list input[type="checkbox"] {
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-hover-color);
         }
       }
     }
@@ -578,9 +578,17 @@ footer.sticky-bottom {
 }
 
 .post-title {
-  mjx-container[jax="CHTML"][display="true"] {
-    display: unset;
-  }
+    display: inline-block;
+    transform-origin: left center;
+    transition: transform 0.3s ease-in-out;
+
+    &:hover {
+        transform: scale(1.05);
+    }
+
+    mjx-container[jax="CHTML"][display="true"] {
+        display: unset;
+    }
 }
 
 .post-list {
