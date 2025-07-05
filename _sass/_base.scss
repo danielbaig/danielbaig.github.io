@@ -282,9 +282,19 @@ ul.task-list input[type="checkbox"] {
     color: #d44638 !important;
 }
 
+// Github
+.navbar-brand.social a.social-github i::before {
+    color: #ffffff !important;
+}
+
 // Gitlab
 .navbar-brand.social a.social-gitlab i::before {
     color: #fb6825 !important;
+}
+
+// InspireHEP
+.navbar-brand.social a.social-inspire i::before {
+    color: #000000 !important;
 }
 
 // Orcid
@@ -354,6 +364,7 @@ ul.task-list input[type="checkbox"] {
       &:hover {
         i::before {
           color: var(--global-hover-color) !important;
+          opacity: 0.8 !important;
         }
       }
     }
