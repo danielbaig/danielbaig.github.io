@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "An overview of the projects and themes I have worked on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -44,27 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
+        },{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -89,6 +69,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-modelling-disc-winds-from-x-ray-binaries",
+          title: 'Modelling Disc Winds From X-Ray Binaries',
+          description: "Astrophysics Internship - 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Modelling%20Disc%20Winds%20From%20X-Ray%20Binaries.html";
+            },},{id: "projects-probing-the-energy-frontier",
+          title: 'Probing the Energy Frontier',
+          description: "HEP Internship - 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Probing%20the%20Energy%20Frontier.html";
+            },},{id: "projects-the-role-of-stochasticity-in-the-evolution-of-animal-pattern-and-morphology",
+          title: 'The Role of Stochasticity in the Evolution of Animal Pattern and Morphology',
+          description: "Biophysics Internship - 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/The%20Role%20of%20Stochasticity%20in%20the%20Evolution%20of%20Animal%20Pattern%20and%20Morphology.html";
+            },},{id: "projects-uncertainties-on-parton-distributions",
+          title: 'Uncertainties on Parton Distributions',
+          description: "Final Year MSci Project - 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Uncertainties%20on%20Parton%20Distributions.html";
             },},{
         id: 'social-email',
         title: 'email',
