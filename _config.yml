@@ -176,6 +176,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "_projects" # or whatever folder holds your project .md files
+    values:
+      scholar:
+        bibliography: projects.bib
 
 sass:
   style: compressed
