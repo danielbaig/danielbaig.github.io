@@ -10,7 +10,7 @@ related_publications: true
 
 <i> Cover image produced with BinSim by Rob Hynes {% cite hynes2010binsim %}.</i>
 
-Often black holes will by a part of a binary system, where its companion is a star in an earlier stage of its life. X-ray binarys (XRBs) are examples of such systems. In these systems, matter from the companion star can by attracted by the black hole and form an accretion disk around it. These accretion discs eject material due to thermal and/or magnetic processes. Disc winds also carry away some material and are identified by P-Cygni profiles in spectra. These are characterised by an emission due to the deexcitation of atoms in the accretion disk combined with a blueshifted absorption at a lower wavelength as can be seen in Figure 1.
+Often black holes will be a part of a binary system, where its companion is a star in an earlier stage of its life. X-ray binaries (XRBs) are examples of such systems. In these systems, matter from the companion star can by attracted by the black hole and form an accretion disk around it. These accretion discs eject material due to thermal and/or magnetic processes. Disc winds also carry away some material and are identified by P-Cygni profiles in spectra. These are characterised by an emission due to the deexcitation of atoms in the accretion disk combined with a blueshifted absorption at a lower wavelength as can be seen in Figure 1.
 
 <div class="row justify-content-center">
   <div class="col-auto text-center mt-3 mt-md-0">
