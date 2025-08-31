@@ -55,6 +55,7 @@ You need to take the following steps to get `al-folio` up and running on your lo
 
 ```bash
 $ docker compose pull
+$ docker compose build
 $ docker compose up
 ```
 
