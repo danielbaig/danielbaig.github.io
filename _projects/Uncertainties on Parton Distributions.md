@@ -3,7 +3,7 @@ layout: page
 title: Uncertainties on Parton Distributions
 description: Final Year MSci Project - 2024
 img: assets/img/ATLAS-Wboson-production.jpg
-importance: 5
+importance: 2
 category: Internships and Undergraduate
 related_publications: true
 ---

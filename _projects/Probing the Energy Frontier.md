@@ -3,7 +3,7 @@ layout: page
 title: Probing the Energy Frontier
 description: HEP Internship - 2023
 img: assets/img/heavyDarkMatterFeynmanDiagrams.png
-importance: 3
+importance: 4
 category: Internships and Undergraduate
 related_publications: true
 ---

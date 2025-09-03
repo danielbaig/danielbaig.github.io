@@ -6,7 +6,7 @@
       year: Sep 2025 - Present
       description:
         - Research Focus - Gauge/Gravity duality
-        - Supervisor - <a href="https://inspirehep.net/authors/1209351?ui-citation-summary=true">Dr Fridrik Gautason</a>
+        - Supervisors - <a href="https://inspirehep.net/authors/1209351?ui-citation-summary=true">Dr Fridrik Gautason</a> and <a href="https://inspirehep.net/authors/1053705?ui-citation-summary=true">Dr Benjamin Withers</a>.
 
     - title: MASt Mathematics (Theoretical Physics)
       institution: University of Cambridge, Cambridge, UK
@@ -52,7 +52,8 @@
       year: Jul - Aug 2025
       description:
         - Supervisor - <a href="https://scholar.google.co.il/citations?hl=en&user=YfAsz6oAAAAJ&view_op=list_works&sortby=pubdate">Dr Amir Porat</a>
-        - Completed an 8-week project on modelling plant growth by implementing concepts from Riemannian geometry using C++.
+        - Completed an 8-week project on modelling self-similar plant structures using a custom numerical solver for morphodynamics, namely Organism.
+        - Created models for the Shoot Apical Meristem and apical hook that replicated growth seen in confocal images.
 
     - title: Astrophysics Summer Research Programme
       institution: Department of Physics, University of Oxford

@@ -3,7 +3,7 @@ layout: page
 title:  The Role of Stochasticity in the Evolution of Animal Pattern and Morphology
 description: Biophysics Internship - 2022
 img: assets/img/convergence_in_evolution.png
-importance: 4
+importance: 5
 category: Internships and Undergraduate
 related_publications: true
 ---
