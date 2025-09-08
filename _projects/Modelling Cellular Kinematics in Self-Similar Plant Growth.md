@@ -10,7 +10,7 @@ related_publications: true
 
 <i> Cover image credit from Figure 3 of {% cite prusinkiewicz2012computational %}.</i>
 
-Some plant structures exhibit self-similar growth, that is, they maintain stable geometries as their cells grow, divide, and flow within them. This offers an analytically tractable system for exploring their growth kinematics and the coupling between genetic regulation and morphoelasticity in plant development. We used a custom numerical solver for morphodynamics, namely [Organism](https://gitlab.com/slcu/teamHJ/Organism), to create models to emulate these forms, capturing cellular growth and proliferation while preserving overall geometry.
+Some plant structures exhibit self-similar growth, that is, they maintain stable geometries as their cells grow, divide, and flow within them. This offers an analytically tractable system for exploring their growth kinematics and the coupling between genetic regulation and morphoelasticity in plant development. After first trying to examine the PDEs governing the system [analytically]({{ site.baseurl }}/assets/pdf/Modelling_Cellular_Kinematics_in_Self_Similar_Plant_Growth_analytics.pdf) we then used a custom numerical solver for morphodynamics, namely [Organism](https://gitlab.com/slcu/teamHJ/Organism), to create models to emulate these forms, capturing cellular growth and proliferation while preserving overall geometry.
 
 Specifically, we looked at emulating the Shoot Apical Meristem (SAM) and the apical hook as shown in Figure 1. We did this by performing a map between Lagrangian, curvilinear and Eulerian coordinate systems. A parabolic map was used to model the SAM and is given by
 $$
