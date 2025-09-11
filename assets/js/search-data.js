@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Pursuing doctoral studies in topics related to gauge/gravity duality at the University of Southampton. Possesses 8 months of cumulative research experience developed through a number of research internships. Solves problems by applying mathematical and coding experience to study a variety of physical systems. Interested in pursuing a career in theoretical physics research.",
+          description: "Pursuing doctoral studies in topics related to gauge/gravity duality at the University of Southampton. Possesses 8 months of cumulative research experience developed through a number of research internships. Solves problems by applying mathematical and coding expertise to study a variety of physical systems. Interested in pursuing a career in theoretical physics research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
+        },{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
@@ -69,6 +64,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-modelling-cellular-kinematics-in-self-similar-plant-growth",
+          title: 'Modelling Cellular Kinematics in Self-Similar Plant Growth',
+          description: "Biophysics Internship - 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Modelling%20Cellular%20Kinematics%20in%20Self-Similar%20Plant%20Growth.html";
             },},{id: "projects-modelling-disc-winds-from-x-ray-binaries",
           title: 'Modelling Disc Winds From X-Ray Binaries',
           description: "Astrophysics Internship - 2023",
@@ -94,7 +94,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%61%6E%69%65%6C.%62%61%69%67.%32%30@%61%6C%75%6D%6E%69.%75%63%6C.%61%63.%75%6B", "_blank");
+          window.open("mailto:%64.%70.%62%61%69%67@%73%6F%74%6F%6E.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-github',
