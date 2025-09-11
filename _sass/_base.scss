@@ -605,6 +605,7 @@ footer.sticky-bottom {
   }
 }
 
+
 .post-title {
     display: inline-block;
     transform-origin: left center;
@@ -618,6 +619,28 @@ footer.sticky-bottom {
         display: unset;
     }
 }
+
+
+.post-title-cv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-title-cv-text {
+    display: inline-block;
+    transform-origin: left center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.post-title-cv-text:hover {
+    transform: scale(1.05);
+}
+
+.post-title-cv mjx-container[jax="CHTML"][display="true"] {
+    display: unset;
+}
+
 
 .post-list {
   margin: 0;

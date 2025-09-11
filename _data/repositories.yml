@@ -3,6 +3,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - danielbaig/Modelling-Cellular-Kinematics-in-Self-Similar-Plant-Growth
   - danielbaig/Uncertainties-on-Parton-Distributions
   - danielbaig/Modelling-Disc-Winds-From-X-Ray-Binaries
   - danielbaig/CONTUR-Cross-Section-Validation
