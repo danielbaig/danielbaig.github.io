@@ -26,7 +26,7 @@ Often black holes will be a part of a binary system, where its companion is a st
     <i>Figure 1.</i> Prominent features of a P-Cygni profile. Adapted from Figure 12.17 of {% cite carroll2006introduction %}.
 </div>
 
-This has been seen in data for XRBs in the optical region, but not in simulations. Using the Monte Carlo radiative transfer code: [PYTHON](https://github.com/agnwinds/python), we explored the system's parameter space to find the conditions under which such a profile arises. By analysing the data using a variety of techniques, we successfully found the conditions to simulate P-Cygni profiles for XRBs in the optical spectrum for the first time.
+This has been seen in data for XRBs in the optical region, but not in simulations. Using the Monte Carlo radiative transfer code: [PYTHON](https://github.com/agnwinds/python) (now called [Sirocco](https://github.com/sirocco-rt/sirocco)), we explored the system's parameter space to find the conditions under which such a profile arises. By analysing the data using a variety of techniques, we successfully found the conditions to simulate P-Cygni profiles for XRBs in the optical spectrum for the first time.
 
 
 

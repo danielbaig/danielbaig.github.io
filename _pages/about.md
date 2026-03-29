@@ -6,7 +6,7 @@ subtitle: First-Year PhD Student
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profilePicture.jpg
   image_circular: false # crops the image to make it circular
   more_info: "<p>Building 54<br>58 Salisbury Road<br>Southampton SO17 1BJ</p>"
 
@@ -28,6 +28,6 @@ latest_posts:
 
 I am a PhD student at the University of Southampton within the [String Theory and Holography Group](https://www.southampton.ac.uk/research/groups/string-theory-holography) in the [Southampton Theory Astrophysics and Gravity (STAG)](https://www.southampton.ac.uk/research/institutes-centres/southampton-theory-astrophysics-gravity) research centre. I completed my undergraduate studies at University College London (UCL) in theoretical physics and then went on to do Part III of the Mathematical Tripos at the University of Cambridge. 
 
-I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics underlying various physical phenomena. I have done research on a variety of interesting projects from biophysics in The Francis Crick Institute and Sainsbury Laboratory Cambridge University (SLCU), to astrophysics at the University of Oxford and particle physics at UCL. Nowadays I am mainly interested in gauge/gravity duality and black holes; however, I am always open to exploring other areas of physics.
+I am interested in many aspects of theoretical physics and enjoy using simulations to understand the mathematics underlying various physical phenomena. I have done research on a variety of interesting projects from biophysics in The Francis Crick Institute and Sainsbury Laboratory Cambridge University (SLCU), to astrophysics at the University of Oxford and particle physics at UCL. Nowadays I am mainly interested in problems related to gauge/gravity duality and black holes, specifically Euclidean wormholes and supergravity; however, I am always open to exploring other areas of physics.
 
 
