@@ -5,7 +5,7 @@ permalink: /legal/
 
 **Site Owner**  
 *Daniel Baig*, PhD Student  
-School of Physics and Astronomy  
+School of Mathematical Sciences
 University of Southampton  
 University Road  
 Southampton  
@@ -13,7 +13,7 @@ SO17 1BJ
 United Kingdom  
 
 **Contact**  
-Email: daniel[dot]baig[dot]20[at]alumni[dot]ucl[dot]ac[dot]uk  
+Email: d[dot]p[dot]baig[at]soton[dot]ac[dot]uk  
 
 ---
 
@@ -28,8 +28,8 @@ No cookies set by this site.
 The views and opinions expressed here are my own and do not necessarily reflect those of any institution I may be a part of.  
 
 **Copyright**  
-© 2025 Daniel Baig. All rights reserved.  
+© 2026 Daniel Baig. All rights reserved.  
 
 ---
 
-_Last updated: 28 June 2025_  
+_Last updated: 31 March 2026_  
