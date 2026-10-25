@@ -34,10 +34,6 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// Theme colors
-
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
@@ -59,4 +55,32 @@ $customLight-blue-dark: #3e737a !default;
 $customLight-mint: #87CEEB !default;
 
 $customDark-blue-dark: #3e737a !default;
-$customDark-black: #000000 !default;
+$customDark-softBlack: #0d0d0d !default;
+
+// Custom palette
+// Neutrals
+$navy-ink: #121830 !default;
+$mist: #E9EEFA !default;
+$mist-card: #F7F9FE !default;
+$ink-muted-light: #55608A !default;
+$divider-light: #C3CCE8 !default;
+$night: #0D1022 !default;
+$night-card: #151A33 !default;
+$night-text: #E8ECFA !default;
+$ink-muted-dark: #9AA3C7 !default;
+$divider-dark: #2A3157 !default;
+$footer-navy: #121838 !default;
+// Primary
+$navy: #2B3585 !default;
+$periwinkle: #97A9FF !default;
+// Secondary
+$coral: #FF6B81 !default;
+$coral-soft: #FF8095 !default;
+$rose: #C2264B !default;
+// Tertiary
+$gold: #FFC233 !default;
+$gold-ink: #8A6100 !default;
+
+// Theme colors
+$code-bg-color-light: rgba($navy, 0.06);
+$code-bg-color-dark: #2c3237 !default;
