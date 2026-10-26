@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Pursuing doctoral studies in topics related to gauge/gravity duality at the University of Southampton. Possesses 8 months of cumulative research experience developed through a number of research internships. Solves problems by applying mathematical and coding expertise to study a variety of physical systems. Interested in pursuing a career in theoretical physics research.",
+          description: "PhD student at Southampton specialising in supergravity, Euclidean wormholes and gauge/gravity duality. Previously at UCL and Cambridge, with four cross-disciplinary research placements. Builds computational models in Python, C++ and Mathematica, using Monte Carlo, PDE and analytical methods. Combines mathematical rigour and clear technical communication for research and quantitative roles.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -66,27 +66,27 @@ ninja.data = [{
               window.location.href = "/projects/9_project.html";
             },},{id: "projects-modelling-cellular-kinematics-in-self-similar-plant-growth",
           title: 'Modelling Cellular Kinematics in Self-Similar Plant Growth',
-          description: "Biophysics Internship - 2025",
+          description: "Biophysics Internship - 2025. Models of shoot apical meristem and apical hook growth that reproduce structures seen in confocal images.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Modelling%20Cellular%20Kinematics%20in%20Self-Similar%20Plant%20Growth.html";
             },},{id: "projects-modelling-disc-winds-from-x-ray-binaries",
           title: 'Modelling Disc Winds From X-Ray Binaries',
-          description: "Astrophysics Internship - 2023",
+          description: "Astrophysics Internship - 2023. Monte Carlo radiative transfer modelling of X-ray binary disc winds; reproduced observed P-Cygni absorption lines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Modelling%20Disc%20Winds%20From%20X-Ray%20Binaries.html";
             },},{id: "projects-probing-the-energy-frontier",
           title: 'Probing the Energy Frontier',
-          description: "HEP Internship - 2023",
+          description: "HEP Internship - 2023. Used LHC data and the CONTUR package to constrain dark meson masses in a composite dark matter model.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Probing%20the%20Energy%20Frontier.html";
             },},{id: "projects-the-role-of-stochasticity-in-the-evolution-of-animal-pattern-and-morphology",
           title: 'The Role of Stochasticity in the Evolution of Animal Pattern and Morphology',
-          description: "Biophysics Internship - 2022",
+          description: "Biophysics Internship - 2022. Simulated gene regulatory network evolution with coupled non-linear ODEs to study convergent evolution.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/The%20Role%20of%20Stochasticity%20in%20the%20Evolution%20of%20Animal%20Pattern%20and%20Morphology.html";
             },},{id: "projects-uncertainties-on-parton-distributions",
           title: 'Uncertainties on Parton Distributions',
-          description: "Final Year MSci Project - 2024",
+          description: "Final Year MSci Project - 2024. Using parton distribution functions to understand disparities in ATLAS and LHCb results from data cutting.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Uncertainties%20on%20Parton%20Distributions.html";
             },},{
