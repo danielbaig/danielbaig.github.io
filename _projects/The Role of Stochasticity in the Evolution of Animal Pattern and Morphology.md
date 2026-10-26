@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  The Role of Stochasticity in the Evolution of Animal Pattern and Morphology
-description: Biophysics Internship - 2022
+description: Biophysics Internship - 2022. Simulated gene regulatory network evolution with coupled non-linear ODEs to study convergent evolution.
 img: assets/img/convergence_in_evolution.png
 importance: 5
 category: Internships and Undergraduate

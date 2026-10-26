@@ -1536,3 +1536,8 @@ figure.cover {
 html[data-theme="dark"] .cv .card .list-group-item .badge {
     color: #{$mist} !important;
 }
+
+// Card descriptions (project cards): follow the theme instead of MDB's fixed grey
+.card .card-body .card-text {
+    color: var(--global-text-color-light);
+}

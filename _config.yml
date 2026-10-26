@@ -10,7 +10,8 @@ contact_note: >
   Please contact me with any comments and especially any errors.
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The personal webpage of Daniel Baig.
+  description: >
+  Daniel Baig is a PhD student in theoretical physics at the University of Southampton, working on gauge/gravity duality. Previously at UCL and the University of Cambridge, with simulation and modelling research in biophysics, astrophysics and particle physics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

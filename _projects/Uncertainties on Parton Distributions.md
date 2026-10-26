@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uncertainties on Parton Distributions
-description: Final Year MSci Project - 2024
+description: Final Year MSci Project - 2024. Using parton distribution functions to understand disparities in ATLAS and LHCb results from data cutting.
 img: assets/img/ATLAS-Wboson-production.jpg
 importance: 2
 category: Internships and Undergraduate

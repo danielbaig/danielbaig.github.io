@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Modelling Cellular Kinematics in Self-Similar Plant Growth
-description: Biophysics Internship - 2025
+description: Biophysics Internship - 2025. Models of shoot apical meristem and apical hook growth that reproduce structures seen in confocal images.
 img: assets/img/Eulerian-Lagrangian_coords.png
 importance: 1
 category: Internships and Undergraduate

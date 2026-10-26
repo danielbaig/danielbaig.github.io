@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probing the Energy Frontier
-description: HEP Internship - 2023
+description: HEP Internship - 2023. Used LHC data and the CONTUR package to constrain dark meson masses in a composite dark matter model.
 img: assets/img/heavyDarkMatterFeynmanDiagrams.png
 importance: 4
 category: Internships and Undergraduate

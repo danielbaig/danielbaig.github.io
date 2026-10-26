@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Modelling Disc Winds From X-Ray Binaries
-description: Astrophysics Internship - 2023
+description: Astrophysics Internship - 2023. Monte Carlo radiative transfer modelling of X-ray binary disc winds; reproduced observed P-Cygni absorption lines.
 img: assets/img/Rob_Hynes_BinSim_XRB.jpeg
 importance: 3
 category: Internships and Undergraduate
